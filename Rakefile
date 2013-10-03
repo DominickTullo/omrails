@@ -1,7 +1,6 @@
-#!/usr/bin/env rake
-# Add your own tasks in files placed in lib/tasks ending in .rake,
-# for example lib/tasks/capistrano.rake, and they will automatically be available to Rake.
+#One Month Rails
 
-require File.expand_path('../config/application', __FILE__)
+This is the sample application for
+[*One Month Rails: Teach yourself how to code](http://onemonthrails.com
 
-Omrails::Application.load_tasks
+	By [Dominick Tullo](http://MusicVault.is)
